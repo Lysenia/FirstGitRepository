@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.cybertek"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="RestAssured"/>
+			<item value="RestAssuredPractice"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/lesia/Desktop/JDBC_starter"/>
+			<item value="/Users/lesia/Desktop/spring-2018-master"/>
+			<item value="/Users/lesia/eclipse-workspace/cucumber-testng-automation"/>
+			<item value="/Users/lesia/Desktop/cucumber-acceptance-tests-master"/>
+			<item value="/Users/lesia/Desktop/ExcelPractice"/>
+			<item value="/Users/lesia/testing_maven/first-maven-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/lesia/eclipse-workspace/cucumber-acceptance-tests/src/test/java/com/prestashop/step_definitions/ProductInformaitonStepDefs.java"/>
+			<item value="/Users/lesia/git/usaspendinggroupproject/src/test/java/gov/USAspending/utilities/tests/pages/Tests.java"/>
+			<item value="/Users/lesia/eclipse-workspace/cucumber-acceptance-tests/src/test/resources/com/prestashop/features"/>
+			<item value="/Users/lesia/eclipse-workspace/seleniumMavenAutomation/src/test/java/suitesrm/SuitCRMTests.java"/>
+			<item value="/Users/lesia/eclipse-workspace/automation_project/src/test/java"/>
+			<item value="/Users/lesia/eclipse-workspace/seleniumMavenAutomation"/>
+			<item value="/Users/lesia/eclipse-workspace/automation_project/src/test/java/webtables/SdetWebtableMap.java"/>
+			<item value="/Users/lesia/eclipse-workspace/seleniumMavenAutomation/src/test/java/sdetapplication"/>
+			<item value="/Users/lesia/eclipse-workspace/automation_project/src/test/java/webelements/CheckTags.java"/>
+			<item value="/Users/lesia/eclipse-workspace/seleniumMavenAutomation/src/test/java/sdetapplication/PersonalInfoTests.java"/>
+			<item value="/Users/lesia/Desktop/BestBuy"/>
+			<item value="/Users/lesia/eclipse-workspace/TaskFromIurii/src/algor/PrimeNumber.java"/>
+			<item value="/Users/lesia/eclipse-workspace/automation_project/src/test/java/com/cybertek/Batch8.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

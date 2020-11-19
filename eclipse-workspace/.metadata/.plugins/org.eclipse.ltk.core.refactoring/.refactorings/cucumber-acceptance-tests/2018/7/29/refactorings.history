@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;cucumber-acceptance-tests&apos;&#x0A;- Original project: &apos;cucumber-acceptance-tests&apos;&#x0A;- Original element: &apos;login_page.feature&apos;" description="Delete element" element1="login_page.feature" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1532206984724" subPackages="false" version="1.0"/>
+</session>

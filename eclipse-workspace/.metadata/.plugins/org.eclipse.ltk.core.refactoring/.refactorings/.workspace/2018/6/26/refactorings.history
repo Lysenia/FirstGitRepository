@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos; MockarooDataValidation&apos;" deleteContents="false" description="Delete resource &apos; MockarooDataValidation&apos;" element1="/ MockarooDataValidation" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1530205339424"/>
+</session>

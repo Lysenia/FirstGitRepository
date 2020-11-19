@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1574" started-at="2018-08-12T16:45:38Z" finished-at="2018-08-12T16:45:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1574" started-at="2018-08-12T16:45:38Z" finished-at="2018-08-12T16:45:39Z">
+      <class name="databases.JDBCConnection">
+        <test-method status="PASS" signature="jdbcMetadata()[pri:0, instance:databases.JDBCConnection@57baeedf]" name="jdbcMetadata" duration-ms="1259" started-at="2018-08-12T16:45:38Z" finished-at="2018-08-12T16:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jdbcMetadata -->
+        <test-method status="PASS" signature="oracleJDBC()[pri:0, instance:databases.JDBCConnection@57baeedf]" name="oracleJDBC" duration-ms="221" started-at="2018-08-12T16:45:39Z" finished-at="2018-08-12T16:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oracleJDBC -->
+      </class> <!-- databases.JDBCConnection -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

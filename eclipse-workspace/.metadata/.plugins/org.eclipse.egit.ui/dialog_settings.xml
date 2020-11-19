@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="2" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/vasyafomiuk/bookit-cucumber-junit.git"/>
+		<item value="https://github.com/cbttestuser1/serenity-demo-project.git"/>
+		<item value="https://github.com/cbttestuser1/cucumber-with-rerun-option.git"/>
+		<item value="https://github.com/Lysenia/mooc-software-testing.git"/>
+		<item value="https://github.com/CybertekSchool/parallel-multi-browser-testng-framework"/>
+		<item value="https://github.com/CybertekSchool/ReviewSessionsCode.git"/>
+		<item value="https://github.com/KomilJuraev/RnBreservation_VA_DarkSide.git"/>
+		<item value="https://github.com/CybertekSchool/cucumber-acceptance-tests.git"/>
+		<item value="https://github.com/KomilJuraev/UsaSpending.git"/>
+		<item value="https://github.com/KomilJuraev/usaspendinggroupproject"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="GitCommitSearchPage">
+		<item value="0" key="HISTORY_SIZE"/>
+	</section>
+</section>

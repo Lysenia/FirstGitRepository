@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/lesia/eclipse-workspace/cucumber-acceptance-tests"/>
+			<item value="/Users/lesia/eclipse-workspace/CucumberProject"/>
+			<item value="/Users/lesia/eclipse-workspace/final-testng-framework"/>
+			<item value="/Users/lesia/eclipse-workspace/parallel-multi-browser-testng-framework"/>
+			<item value="/Users/lesia/Documents/Cybertek/final-testng-framework-master"/>
+			<item value="/Users/lesia/eclipse-workspace/cucumber-testng-automation"/>
+			<item value="/Users/lesia/Desktop/BestBuy"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/WhackAMole"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/calculator/SecondGradeMathTest"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/image/ImageProcessing"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/Catalogue/CatalogWithList 2"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/Catalogue/CatalogWithList"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/P17/P17_WorldFlag"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/draw/DrawBoard"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/projectDay2/EndOfPhase1_ProjectDay2"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/Days/P14_DateUtils 4"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/Days/P14_DateUtils "/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/Days/P14_DateUtils"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/word/P2_Words"/>
+			<item value="/Users/lesia/Documents/Cybertek/Java/LetterFrequency/P13_LetterFrequency"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode path=&quot;/automation_project/src/test/java/iframespopups/TestBase.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="212" key="DIALOG_X_ORIGIN"/>
+			<item value="-1" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="529" key="DIALOG_HEIGHT"/>
+		<item value="314" key="DIALOG_X_ORIGIN"/>
+		<item value="22" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
